@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "patient_id": 123456,
+    "doctor_id": 1,
+    "last_attention": "2024-04-15T10:30:00Z",
+    "appointment_type": "Consulta de Psicología",
+    "observations": "El paciente se mostró tranquilo y relajado durante la consulta."
+  },
+  {
+    "id": 2,
+    "patient_id": 234567,
+    "doctor_id": 1,
+    "last_attention": "2024-04-14T09:45:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "Se notó un ligero aumento en la ansiedad del paciente durante la consulta."
+  },
+  {
+    "id": 3,
+    "patient_id": 345678,
+    "doctor_id": 1,
+    "last_attention": "2024-04-14T14:15:00Z",
+    "appointment_type": "Consulta de Psicología",
+    "observations": "El paciente manifestó síntomas graves y requiere atención inmediata."
+  },
+  {
+    "id": 4,
+    "patient_id": 456789,
+    "doctor_id": 1,
+    "last_attention": "2024-04-13T11:00:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "El paciente mostró mejoría en comparación con la última visita."
+  },
+  {
+    "id": 5,
+    "patient_id": 567890,
+    "doctor_id": 1,
+    "last_attention": "2024-04-12T15:30:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "Se observó un leve empeoramiento en la condición del paciente."
+  },
+  {
+    "id": 6,
+    "patient_id": 678901,
+    "doctor_id": 1,
+    "last_attention": "2024-04-11T16:45:00Z",
+    "appointment_type": "Consulta de Psicología",
+    "observations": "El paciente está respondiendo bien al tratamiento."
+  },
+  {
+    "id": 7,
+    "patient_id": 789012,
+    "doctor_id": 1,
+    "last_attention": "2024-04-10T13:20:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "Se detectaron signos de deterioro en la salud del paciente."
+  },
+  {
+    "id": 8,
+    "patient_id": 890123,
+    "doctor_id": 1,
+    "last_attention": "2024-04-09T10:10:00Z",
+    "appointment_type": "Consulta de Psicología",
+    "observations": "El paciente sigue presentando síntomas moderados."
+  },
+  {
+    "id": 9,
+    "patient_id": 901234,
+    "doctor_id": 1,
+    "last_attention": "2024-04-08T11:45:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "El paciente está en condiciones estables en este momento."
+  },
+  {
+    "id": 10,
+    "patient_id": 101112,
+    "doctor_id": 1,
+    "last_attention": "2024-04-07T14:00:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "Se observaron mejoras significativas en la salud del paciente."
+  },
+  {
+    "id": 11,
+    "patient_id": 111213,
+    "doctor_id": 1,
+    "last_attention": "2024-04-06T12:30:00Z",
+    "appointment_type": "Consulta de Psicología",
+    "observations": "La condición del paciente empeoró desde la última consulta."
+  },
+  {
+    "id": 12,
+    "patient_id": 121314,
+    "doctor_id": 1,
+    "last_attention": "2024-04-05T09:20:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "El paciente mostró estabilidad en su condición de salud."
+  },
+  {
+    "id": 13,
+    "patient_id": 131415,
+    "doctor_id": 1,
+    "last_attention": "2024-04-04T15:00:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "El paciente parece estar respondiendo positivamente al tratamiento."
+  },
+  {
+    "id": 14,
+    "patient_id": 141516,
+    "doctor_id": 1,
+    "last_attention": "2024-04-03T16:40:00Z",
+    "appointment_type": "Consulta de Psicología",
+    "observations": "Se observaron fluctuaciones en el estado de ánimo del paciente."
+  },
+  {
+    "id": 15,
+    "patient_id": 151617,
+    "doctor_id": 1,
+    "last_attention": "2024-04-02T11:15:00Z",
+    "appointment_type": "Consulta de Psiquiatría",
+    "observations": "La situación del paciente es crítica y necesita atención urgente."
+  }
+]

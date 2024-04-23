@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Luisa Fernanda Gómez",
+    "speciality": "Medicina General"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Andrés Ramírez",
+    "speciality": "Psiquiatría"
+  },
+  {
+    "id": 3,
+    "name": "María Alejandra Muñoz",
+    "speciality": "Psicología"
+  }
+]
